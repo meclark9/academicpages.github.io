@@ -85,10 +85,10 @@ author:
   bio              : "UMaine Grad Student"
   location         : "UMaine"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mikayla+clark"
+  googlescholar    : 
+  email            : "mikayla.clark1@maine.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Mikayla-Clark"
   uri              :
   bitbucket        :
   codepen          :
