@@ -10,6 +10,10 @@ redirect_from:
 
 University of Maine
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 M.S Chemical Oceanography
 ======
 My master's research at the University of Maine focuses on the transport and fate of microplastics in the North Atlantic.
