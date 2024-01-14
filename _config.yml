@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mikayla Clark / Mikayla Clark"
+title                    : "Mikayla Clark / M.S Graduate Student"
 title_separator          : "-"
 name                     : &name "Mikayla Clark"
-description              : &description "Graduate student at the University of Maine"
+description              : &description "Graduate student at the University of Maine pursuing a master's degree in oceanography."
 url                      : https://meclark9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meclark9/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Mikayla Clark"
   avatar           : "20211114_131815 (2) (1) (1).jpg"
-  bio              : "UMaine Grad Student"
-  location         : "UMaine"
+  bio              : "Oceanography M.S Student"
+  location         : "University of Maine - Darling Marine Center"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mikayla+clark"
   googlescholar    : 
   email            : "mikayla.clark1@maine.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Mikayla-Clark"
+  researchgate     : "https://www.researchgate.net/profile/Mikayla-Clark"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "meclark9.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
