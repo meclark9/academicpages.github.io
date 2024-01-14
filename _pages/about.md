@@ -13,6 +13,7 @@ University of Maine
 M.S Chemical Oceanography
 ======
 My master's research at the University of Maine focuses on the transport and fate of microplastics in the North Atlantic.
+I work with Dr. Margaret Estapa to understand how the biological carbon pump can influence the transport of plastic.
 
 
 B.S Biology
