@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UMaine Grad Student"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-University of Maine
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text= My Academic Journey! &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 M.S Chemical Oceanography
